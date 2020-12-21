@@ -1,0 +1,37 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "currency": "USD",
+    "stockExchange": "NasdaqGS",
+    "exchangeShortName": "NASDAQ"
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "currency": "USD",
+    "stockExchange": "NasdaqGS",
+    "exchangeShortName": "NASDAQ"
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "currency": "USD",
+    "stockExchange": "NasdaqGS",
+    "exchangeShortName": "NASDAQ"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "currency": "USD",
+    "stockExchange": "NasdaqGS",
+    "exchangeShortName": "NASDAQ"
+  },
+  {
+    "symbol": "FB",
+    "name": "Facebook, Inc.",
+    "currency": "USD",
+    "stockExchange": "NasdaqGS",
+    "exchangeShortName": "NASDAQ"
+  }
+]
