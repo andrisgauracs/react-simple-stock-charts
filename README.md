@@ -6,6 +6,10 @@ This sample project provides the ability to search for individual stocks and dis
 
 <hr></hr>
 
+## Demo
+
+https://andrisgauracs.github.io/react-simple-stock-charts/
+
 ## Libraries used
 
 - [Recharts](https://recharts.org/en-US/)
