@@ -1,6 +1,6 @@
 # A simple stock chart finder and display
 
-![Screenshot](https://gauracs.me/wp-content/uploads/2020/12/stock-app.gif)
+![Screenshot](https://andris.gauracs.com/images/78f4a285-3e8d-479a-9fdd-00937460372f.gif)
 
 This sample project provides the ability to search for individual stocks and display their financial data charts for different time periods.
 
